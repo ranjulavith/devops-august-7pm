@@ -1,1 +1,2 @@
 adding some content to the file
+modify the file for stash
